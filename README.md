@@ -25,6 +25,15 @@ Using **AWS CloudFormation**, **AWS CodeCommit**, and **AWS CodePipeline**, we:
 
 ---
 
+<h2>FEATURES</h2>
+
+✅ Fully automated pipeline: pushes to CodeCommit trigger CodePipeline, which updates CloudFormation stacks automatically.
+✅ Layered deployment architecture enabling separation of networking and application concerns.
+✅ Region-agnostic deployment enabling consistent replication across AWS Regions.
+✅ Improved operational efficiency and reliability by reducing manual configuration errors.
+✅ Version-controlled infrastructure allowing easy rollback, audit, and team collaboration.
+✅ Supports scaling infrastructure for new café locations globally with minimal manual intervention.
+
 <h2>⚙️ Deployment Steps</h2>
 
 ---
