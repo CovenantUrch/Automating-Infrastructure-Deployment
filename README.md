@@ -96,5 +96,5 @@ Re-run stack creation commands in the new Region or create a new CodePipeline in
 - Automatic deployments and updates on Git push
 
 👨‍💻 Author
-Project by: Covenant Urch
-Email: covenanturch@gmail.com
+Project by: Covenant Onwukwe
+Email: covenantonk@gmail.com
